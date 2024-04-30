@@ -4,6 +4,8 @@ import pandas as pd
 import pickle
 import streamlit as st
 import sklearn
+import trafilatura
+
 print(sklearn.__version__)
 #loading models
 dtr = pickle.load(open('dtr.pkl','rb'))

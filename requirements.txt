@@ -10,3 +10,4 @@ scipy
 Werkzeug
 xgboost
 gunicorn
+trafilatura
