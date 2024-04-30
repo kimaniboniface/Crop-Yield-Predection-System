@@ -5,7 +5,7 @@ import pickle
 import streamlit as st
 import sklearn
 import trafilatura
-
+from newspaper import Article
 print(sklearn.__version__)
 #loading models
 dtr = pickle.load(open('dtr.pkl','rb'))
