@@ -11,3 +11,4 @@ Werkzeug
 xgboost
 gunicorn
 trafilatura
+newspaper3k
